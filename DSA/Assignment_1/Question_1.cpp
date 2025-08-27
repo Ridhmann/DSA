@@ -1,5 +1,5 @@
 #include<iostream>
-using namespace std;
+using namespace std; 
 
 
 void Create(int* arr, int n) {
@@ -147,3 +147,4 @@ int main() {
 
 	return 0;
 }
+
